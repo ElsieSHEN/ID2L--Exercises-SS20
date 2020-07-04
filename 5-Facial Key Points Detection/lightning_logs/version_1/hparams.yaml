@@ -1,0 +1,5 @@
+batch_size: 10
+kernel_size: 3
+num_filters: 32
+padding: 1
+stride: 1

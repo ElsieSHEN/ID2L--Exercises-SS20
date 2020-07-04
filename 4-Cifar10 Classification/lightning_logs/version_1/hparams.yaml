@@ -1,0 +1,3 @@
+batch_size: 32
+learning_rate: 0.0002543393624149054
+n_hidden: 128
